@@ -1,8 +1,7 @@
 {
   "profiles": {
     "ConsoleApp": {
-      "commandName": "Project",
-      "commandLineArgs": "--number 4 --verbose"
+      "commandName": "Project"
     }
   }
 }
